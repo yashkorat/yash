@@ -6,10 +6,10 @@
 
 I am a passionate **Cyber Security Specialist** with a keen interest in developing innovative automation tools for penetration testing and hacking. With extensive experience in various aspects of cybersecurity, I aim to contribute to the community by creating tools that simplify and enhance the hacking process.
 
-- 🌐 [Website](https://yourwebsite.com)
-- 📧 [Email](mailto:your.email@example.com)
+- 🌐 [Website](https://yashkorat.com)
+- 📧 [Email](mailto:me@yashkorat.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashkorat)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🐦 [Twitter](https://twitter.com/yashkorat2709)
 
 ---
 
@@ -74,7 +74,7 @@ Building an automated exploitation tool that leverages the power of ChatGPT to i
 Feel free to reach out to me if you're interested in my projects or if you'd like to collaborate on cybersecurity and automation tool development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkorat)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashkorat)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashkorat2709)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@yashkorat.com)
 
 ---
