@@ -1,6 +1,9 @@
 # Hi there, I'm Yash Korat! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashkorat&color=blueviolet)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
 
 ## 🚀 About Me
 
@@ -78,5 +81,9 @@ Feel free to reach out to me if you're interested in my projects or if you'd lik
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@yashkorat.com)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
 
 Thank you for visiting my profile! Have a great day! 😊
